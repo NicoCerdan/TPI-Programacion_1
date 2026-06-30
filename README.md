@@ -34,6 +34,14 @@ El objetivo es integrar los conocimientos de programación estructurada, modular
 
 ---
 
+## 🎥 Video explicativo
+
+El video de presentación del Trabajo Integrador está disponible en YouTube en el siguiente enlace:
+
+[Ver video en YouTube](https://www.youtube.com/watch?v=q3mPA2SIgLg)
+
+---
+
 ## ⚙️ Instrucciones de ejecución
 1. Instalar **Python 3.10 o superior**.  
 2. Clonar el repositorio:  
