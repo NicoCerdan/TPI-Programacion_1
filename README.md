@@ -59,7 +59,7 @@ Ingrese superficie: 2780400
 Ingrese continente: América
 
 ➤ Buscar país
-Seleccione una opción: 2
+Seleccione una opción: 3
 Ingrese el nombre del país a buscar: arg
 Se encontraron 1 resultado(s):
 - Argentina | Población: 46044703 | Superficie: 2780400 km2 | Continente: América
